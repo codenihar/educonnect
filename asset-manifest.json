@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/educonnect/static/css/main.d1ddfcac.css",
+    "main.js": "/educonnect/static/js/main.d3e5dd40.js",
+    "static/js/787.4ee8a3dd.chunk.js": "/educonnect/static/js/787.4ee8a3dd.chunk.js",
+    "index.html": "/educonnect/index.html",
+    "main.d1ddfcac.css.map": "/educonnect/static/css/main.d1ddfcac.css.map",
+    "main.d3e5dd40.js.map": "/educonnect/static/js/main.d3e5dd40.js.map",
+    "787.4ee8a3dd.chunk.js.map": "/educonnect/static/js/787.4ee8a3dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ddfcac.css",
+    "static/js/main.d3e5dd40.js"
+  ]
+}
