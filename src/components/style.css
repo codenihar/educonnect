@@ -1,0 +1,237 @@
+.home-inside{
+    height: 80vh;  
+     color: aliceblue; 
+   }
+   .home-logo{
+       font-weight: 500;
+       letter-spacing: 0.1em;
+       font-family:monospace;
+       line-height: 1.26em;
+       padding-left: 80px;
+       padding-top: 40px;
+       color:rgb(232,209,174);
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   .logo{
+       max-width:40px;
+       margin-right: 10px;
+   }
+   .home-page {
+       background-color: rgb(6,0,46);
+   }
+   .home-heading{
+       text-shadow: 0.5px 0.5px rgb(246, 232, 176);
+       color: rgb(244,224,147);
+       letter-spacing: 0.1em;
+       font-weight: 800;
+       font-size: 50px;
+       font-weight:lighter;
+   }
+   .home-content{
+       color:rgb(240, 225, 201);
+       padding-top: 30px;
+       font-weight: 500;
+       font-size: 30px;
+       font-family: sans-serif;
+   }
+   .home-img{
+       height: 370px;
+   }
+   .home-btn{
+       background-color:rgb(240, 225, 201);
+       border-radius: 0px;
+   }
+   .help-header{
+       font-family: 'Times New Roman';
+       font-size: 60px;
+       color:rgb(6,0,46);
+   }
+   .help-page{
+       height: 100vh;
+       font-size: 40px;
+       font-style: normal;
+       font-weight: lighter;    
+   }
+   .help-img{
+       max-width: 530px;
+        height: 470px; 
+   }
+   .btn-help{
+       background-color:rgb(230, 187, 118);
+       border-radius: 0px;
+   }
+   .help-content{
+      color:rgb(0, 0, 0);
+      margin-top: 20px;
+      margin-bottom: 20px;
+      font-size: 20px;
+      
+   }
+   .main-header{
+       color: rgb(105, 5, 5);
+       font-style: italic;
+       font-family: monospace;
+       font-weight: lighter;
+       font-size: 60px;
+       margin-bottom: 50px;
+   }
+   .main-logoname{
+       color:rgb(3, 3, 31);
+       font-size: 20px;
+       padding-top: 25px;
+   }
+   .main-content{
+       margin-top: 20px;
+       background-color:rgb(232,209,174);
+       color:black;
+   }
+   .services{
+      margin-top: 120px;
+      margin-bottom: 120px;
+   }
+   .ser-tagline{
+       margin-top: 20px;
+       font-weight:300;
+       font-size: 25px;
+       font-style: oblique;
+   }
+   .ser{
+       color:rgb(44, 164, 233);
+       font-size: 23px;
+       font-style: normal;
+       padding-left: 25px;
+       padding-top: 12px;
+       font-weight: lighter;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   .service-in {
+       margin-bottom: 25px;
+   }
+   .ser-main-img {
+       max-height: 500px;
+   }
+   .ser-small-img {
+       max-height: 50px;
+   }
+   .feedback{
+       background-image: url("https://img.freepik.com/free-photo/father-throwing-up-son_1153-3066.jpg?w=1060&t=st=1683190727~exp=1683191327~hmac=c6bda3c94dfdb40f7c68b17389baf6c686678c53fc828753030b275e26216a65");
+       background-repeat: no-repeat;
+       background-size: cover;
+       height: 100vh;
+       
+   }
+   .feedback-content{
+       color:rgb(0, 0, 0) !important;
+   }
+   .feed-card {
+       
+       border-style:solid;
+       border-radius: 20px;
+       border-color: black;
+       background-color: white;
+       opacity: 0.4;
+       padding: 30px;
+       font-size: 20px;
+   }
+   .feedback-header{
+       color:rgb(59, 56, 56);
+       text-shadow: 0 0 2px rgb(235, 228, 228);
+       text-align: center;
+       font-size: 50px;
+       font-family: 'Times New Roman', Times, serif;
+   }
+   .follow-logo {
+       max-height: 50px;
+   }
+   .main-card-1 {
+       padding: 40px;
+       justify-content: space-evenly;
+       
+   }
+   .main-card-2 {
+       padding: 40px;
+       background-color: rgb(219,191,148);
+   }
+   .main-card-3 {
+       padding: 40px;
+       background-color:rgb(205,173,125);
+   }
+   .main-card-1-h1 {
+       margin-bottom: 40px;
+       color:rgb(97, 7, 7);
+       font-family:cursive;
+   }
+   .main-card-1-p {
+       font-size: 18px;
+       font-weight:lighter;
+       font-family:serif;
+       font-style: italic;
+       color:black;
+   }
+   .contact{
+       margin-left: 100px;
+   }
+   
+   .contact-header{
+       margin-top: 30px;
+       line-height: 1.26em;
+       font-weight: bold;
+       
+       font-style: italic;
+   }
+   .logo-about{
+       max-width: 30px;
+   }
+   .about{
+       margin-left:10px;
+       font-weight:lighter;
+       font-style: italic;
+       font-size:30px;
+   }
+   .day{
+   
+      color:burlywood;
+      font-weight: 700;
+       font-style:normal;
+       font-family: monospace;
+      font-size:24px;
+   
+   }
+   
+   .follow-logo{
+       margin-left: 10px;
+       padding: 10px;
+   
+   }
+   
+   .follow-p {
+       margin-top: 5px;
+       font-size: 23px;
+       font-style: italic;
+       color:rgb(3, 3, 31);
+       font-weight: lighter;
+   
+   }
+   .contact-logoname{
+       color:rgb(3, 3, 31);
+       font-size: 20px;
+       padding-top: 43px;
+   
+   }
+   .time{
+       font-size:21px;
+   }
+   @media (min-width:768px) {
+       .home-inside {
+           margin-top:80px;
+       }
+       .help-page{
+           justify-content: center;
+           display: flex;
+           flex-direction: column;
+       }
+       .main-header {
+           padding-left: 70px;
+           font-size: 120px;
+       }
+   }
